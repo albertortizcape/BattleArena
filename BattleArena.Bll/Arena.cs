@@ -4,7 +4,7 @@ using BattleArena.Entities;
 
 namespace BattleArena.Bll
 {
-    public class Arena
+    public class Arena : IArena
     {
         private Entity _player1;
         private Entity _player2;
