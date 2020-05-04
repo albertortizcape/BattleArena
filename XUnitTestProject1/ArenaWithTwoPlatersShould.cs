@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using BattleArena.Bll;
 using BattleArena.Entities;
 using BattleArena.Entities.Player;
 using Xunit;

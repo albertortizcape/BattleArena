@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using BattleArena.Entities.Player;
+using BattleArena.Entities;
 
-namespace BattleArena.Entities
+namespace BattleArena.Bll
 {
     public class Arena
     {
